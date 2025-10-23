@@ -55,5 +55,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagunasjohnrey&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=BagunasJohnrey&icon=0&color=0)](https://visitcount.itsvg.in)
-
