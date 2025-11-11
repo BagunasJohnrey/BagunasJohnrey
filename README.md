@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Johnrey+Bagunas!;💻+Student+Developer;" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">
+  Learning. Building. Improving — one project at a time.
+</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bagunasjohnrey&label=Profile%20Views&color=0e75b6&style=flat" alt="bagunasjohnrey" />
 </p>
